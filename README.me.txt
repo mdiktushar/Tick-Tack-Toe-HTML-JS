@@ -1,0 +1,1 @@
+It is only for JS documentation parctice. No Backend logic is applyed.
